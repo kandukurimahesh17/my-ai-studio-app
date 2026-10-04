@@ -1,0 +1,8 @@
+{
+  "name": "Aura Browser",
+  "description": "A high-performance simulated web browser featuring multi-tab browsing, split view, developer tools, incognito mode, live web apps, extensions, and bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
